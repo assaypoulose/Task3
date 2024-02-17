@@ -2,7 +2,7 @@ let myResume={
     "basics": {
       "firstname": "Assay Poulose",
       "lastname" : "Peenikkaparamban",
-      "email": "assaypoulose16@gamil.com",
+      "email": "assaypoulose16@gmail.com",
       "phone": +4917683466693,
       "Batchelor degree": "B.E.Aeronautical Engineering",
       "Master degree": "MSc.Aviation Transport",
